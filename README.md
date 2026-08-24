@@ -24,10 +24,8 @@ An intelligent journalism platform combining AI, NLP, RAG, and Flutter to enhanc
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zico3m&show_icons=true&theme=tokyonight)
-🔗 [Nabaa - AI-Powered Journalism Platform](https://github.com/zico3m/Nabaa)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s=true&theme=tokyonight
+Show more lines
 
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zico3m&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme/api/top-langs/?username=zico3m&layout=compact&theme=tokyonight
 
