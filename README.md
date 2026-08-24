@@ -19,6 +19,6 @@ An intelligent journalism platform combining AI, NLP, RAG, and Flutter to enhanc
 - Supabase & PostgreSQL
 - Scikit-learn
 - Hugging Face
-- Gemini API
+
 
 - 
