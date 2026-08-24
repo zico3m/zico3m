@@ -12,7 +12,7 @@ I'm an Information Technology graduate interested in Artificial Intelligence, NL
 
 An intelligent journalism platform combining AI, NLP, RAG, and Flutter to enhance news consumption.
 
-🔗 [Nabaa - AI-Powered Journalism Platform](https://github.com/zico3m/Nabaa)
+🔗 [Nabaa - AI-Powered Journalism Platform](https://github.com/zico3m/Nabaa-AI-Journalism-Platform)
 
 ---
 
