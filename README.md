@@ -21,13 +21,13 @@ An intelligent journalism platform combining AI, NLP, RAG, and Flutter to enhanc
 - Hugging Face
 
 
-  ### 📊 GitHub Stats
 
-![Zico's GitHub stats](https://github-readme-stats.vercel.app/api?username=zico3m&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats
 
-
-### 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zico3m&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zico3m&show_icons=true&theme=tokyonight)
 🔗 [Nabaa - AI-Powered Journalism Platform](https://github.com/zico3m/Nabaa)
+
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zico3m&layout=compact&theme=tokyonight)
+
+
