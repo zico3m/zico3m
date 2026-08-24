@@ -29,3 +29,4 @@ Show more lines
 
 ![Top Languages](https://github-readme/api/top-langs/?username=zico3m&layout=compact&theme=tokyonight
 
+🔗 [Nabaa - AI-Powered Journalism Platform](https://github.com/zico3m/AI-Powered Journalism Platform)
